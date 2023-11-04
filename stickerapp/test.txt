@@ -1,0 +1,1503 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "all_stickers": [
+    {
+      "category_name": "Celebrities",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/1.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG",
+      "sticker_packs": [
+        {
+          "identifier": "kolobanga_1",
+          "name": "Kolobanga",
+          "publisher": "Fun Prime",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "11",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 1,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "rajazafar736@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": " ",
+          "privacy_policy_website": " ",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            },
+            {
+              "image_file": "6.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/6.webp"
+            },
+            {
+              "image_file": "7.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/7.webp"
+            },
+            {
+              "image_file": "8.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/8.webp"
+            },
+            {
+              "image_file": "9.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/9.webp"
+            },
+            {
+              "image_file": "10.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/10.webp"
+            },
+            {
+              "image_file": "11.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/11.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "3",
+          "name": "Divide We Fall",
+          "publisher": "Morality",
+          "tray_image_file": "1.png",
+          "stickers_list_size": "9",
+          "trayImageFileName": "1.png",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "rajazafar736@gmail.com",
+          "publisher_website": "https://firebasestorage.googleapis.com/v0/b/stickerstest-2fe56.appspot.com/o/3.zip?alt=media&token=2150d2f2-31f6-41cb-8bca-83501e414655",
+          "license_agreement_website": " ",
+          "privacy_policy_website": " ",
+          "animated_sticker_pack": true,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            },
+            {
+              "image_file": "6.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/6.webp"
+            },
+            {
+              "image_file": "7.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/7.webp"
+            },
+            {
+              "image_file": "8.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/8.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "2",
+          "name": "Together We Rise",
+          "publisher": "Godzilla",
+          "tray_image_file": "1.png",
+          "stickers_list_size": "8",
+          "trayImageFileName": "2.png",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "rajazafar736@gmail.com",
+          "publisher_website": "https://firebasestorage.googleapis.com/v0/b/stickerstest-2fe56.appspot.com/o/2.zip?alt=media&token=cefcf527-af16-44b2-888e-863644a21068",
+          "license_agreement_website": " ",
+          "privacy_policy_website": " ",
+          "animated_sticker_pack": true,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            },
+            {
+              "image_file": "6.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/6.webp"
+            },
+            {
+              "image_file": "7.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/7.webp"
+            },
+            {
+              "image_file": "8.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/8.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Funny",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/1.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG",
+      "sticker_packs": [
+        {
+          "identifier": "kolobanga_1",
+          "name": "Kolobanga",
+          "publisher": "Fun Prime",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "11",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 1,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "rajazafar736@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": " ",
+          "privacy_policy_website": " ",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            },
+            {
+              "image_file": "6.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/6.webp"
+            },
+            {
+              "image_file": "7.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/7.webp"
+            },
+            {
+              "image_file": "8.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/8.webp"
+            },
+            {
+              "image_file": "9.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/9.webp"
+            },
+            {
+              "image_file": "10.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/10.webp"
+            },
+            {
+              "image_file": "11.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/11.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "kolobanga_2",
+          "name": "Kolobanga",
+          "publisher": "Fun Prim",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "11",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "rajazafar736@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": " ",
+          "privacy_policy_website": " ",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            },
+            {
+              "image_file": "6.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/6.webp"
+            },
+            {
+              "image_file": "7.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/7.webp"
+            },
+            {
+              "image_file": "8.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/8.webp"
+            },
+            {
+              "image_file": "9.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/9.webp"
+            },
+            {
+              "image_file": "10.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/10.webp"
+            },
+            {
+              "image_file": "11.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/11.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Dictator",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/1.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG",
+      "sticker_packs": [
+        {
+          "identifier": "kolobanga_1",
+          "name": "Kolobanga",
+          "publisher": "Fun Prime",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "11",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 1,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "rajazafar736@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": " ",
+          "privacy_policy_website": " ",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            },
+            {
+              "image_file": "6.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/6.webp"
+            },
+            {
+              "image_file": "7.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/7.webp"
+            },
+            {
+              "image_file": "8.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/8.webp"
+            },
+            {
+              "image_file": "9.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/9.webp"
+            },
+            {
+              "image_file": "10.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/10.webp"
+            },
+            {
+              "image_file": "11.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/11.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "kolobanga_2",
+          "name": "Kolobanga",
+          "publisher": "Fun Prim",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "11",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "rajazafar736@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": " ",
+          "privacy_policy_website": " ",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            },
+            {
+              "image_file": "6.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/6.webp"
+            },
+            {
+              "image_file": "7.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/7.webp"
+            },
+            {
+              "image_file": "8.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/8.webp"
+            },
+            {
+              "image_file": "9.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/9.webp"
+            },
+            {
+              "image_file": "10.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/10.webp"
+            },
+            {
+              "image_file": "11.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/11.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Custom",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG",
+      "sticker_packs": [
+        {
+          "identifier": "Pack Complete",
+          "name": "22",
+          "publisher": "Ahtisham",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "5",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "funprime@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": "",
+          "privacy_policy_website": "",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "New Pack Identifier",
+          "name": "New Tag",
+          "publisher": "Noman",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "3",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "noman@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": "",
+          "privacy_policy_website": "",
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "kolobanga_1",
+          "name": "King Kong",
+          "publisher": "Fun Prime",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "11",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 1,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "rajazafar736@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": " ",
+          "privacy_policy_website": " ",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            },
+            {
+              "image_file": "6.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/6.webp"
+            },
+            {
+              "image_file": "7.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/7.webp"
+            },
+            {
+              "image_file": "8.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/8.webp"
+            },
+            {
+              "image_file": "9.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/9.webp"
+            },
+            {
+              "image_file": "10.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/10.webp"
+            },
+            {
+              "image_file": "11.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/11.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "kolobanga_1",
+          "name": "Not Your Cup of Tea",
+          "publisher": "Fun Prime",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "11",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 1,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "rajazafar736@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": " ",
+          "privacy_policy_website": " ",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            },
+            {
+              "image_file": "6.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/6.webp"
+            },
+            {
+              "image_file": "7.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/7.webp"
+            },
+            {
+              "image_file": "8.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/8.webp"
+            },
+            {
+              "image_file": "9.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/9.webp"
+            },
+            {
+              "image_file": "10.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/10.webp"
+            },
+            {
+              "image_file": "11.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/11.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "How",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG",
+      "sticker_packs": [
+        {
+          "identifier": "Pack Complete",
+          "name": "22",
+          "publisher": "Ahtisham",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "5",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "funprime@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": "",
+          "privacy_policy_website": "",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "New Pack Identifier",
+          "name": "New Tag",
+          "publisher": "Noman",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "3",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "noman@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": "",
+          "privacy_policy_website": "",
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Where",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG",
+      "sticker_packs": [
+        {
+          "identifier": "Pack Complete",
+          "name": "22",
+          "publisher": "Ahtisham",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "5",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "funprime@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": "",
+          "privacy_policy_website": "",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "New Pack Identifier",
+          "name": "New Tag",
+          "publisher": "Noman",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "3",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "noman@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": "",
+          "privacy_policy_website": "",
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Why",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG",
+      "sticker_packs": [
+        {
+          "identifier": "Pack Complete",
+          "name": "22",
+          "publisher": "Ahtisham",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "5",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "funprime@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": "",
+          "privacy_policy_website": "",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "New Pack Identifier",
+          "name": "New Tag",
+          "publisher": "Noman",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "3",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "noman@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": "",
+          "privacy_policy_website": "",
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "When",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG",
+      "sticker_packs": [
+        {
+          "identifier": "Pack Complete",
+          "name": "22",
+          "publisher": "Ahtisham",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "5",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "funprime@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": "",
+          "privacy_policy_website": "",
+          "animated_sticker_pack": false,
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            },
+            {
+              "image_file": "4.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/4.webp"
+            },
+            {
+              "image_file": "5.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/5.webp"
+            }
+          ]
+        },
+        {
+          "identifier": "New Pack Identifier",
+          "name": "New Tag",
+          "publisher": "Noman",
+          "tray_image_file": "1.webp",
+          "stickers_list_size": "3",
+          "trayImageFileName": "1.webp",
+          "totalLikes": 0,
+          "premium": "no",
+          "avoid_cache": "false",
+          "publisher_email": "noman@gmail.com",
+          "publisher_website": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/kolobanga_1.zip",
+          "license_agreement_website": "",
+          "privacy_policy_website": "",
+          "stickers": [
+            {
+              "image_file": "1.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/1.webp"
+            },
+            {
+              "image_file": "2.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/2.webp"
+            },
+            {
+              "image_file": "3.webp",
+              "emojis": [
+                "",
+                ""
+              ],
+              "image_link": "http://deltasquaretech.com/whatsappstickers/NewEmojis/New_Emoji_Packs/kolobanga_1/3.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sticker_cat": [
+    {
+      "stickerTitle": "Celebrities",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/1.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG"
+    },
+    {
+      "stickerTitle": "Funny",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/1.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG"
+    },
+    {
+      "stickerTitle": "Custom",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG"
+    },
+    {
+      "stickerTitle": "Why",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG"
+    },
+    {
+      "stickerTitle": "Where",
+      "titleImage": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "titleImageIcon": "http://deltasquaretech.com/whatsappstickers/NewEmojis/Celebrities/kim_jong_un/4.webp",
+      "bg_image": "http://deltasquaretech.com/whatsappstickers/NewEmojis/bg/txt.PNG"
+    }
+  ]
+}

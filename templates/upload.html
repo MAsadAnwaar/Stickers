@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Sticker List</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-top: 50px;
+        }
+        .messages {
+            margin-bottom: 20px;
+            padding: 10px;
+            list-style: none;
+            background-color: #f8f8f8;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .messages li {
+            margin: 5px 0;
+        }
+        .success {
+            color: green;
+        }
+        .error {
+            color: red;
+        }
+        form {
+            margin-top: 50px;
+            text-align: center;
+        }
+        label {
+            font-weight: bold;
+            color: #333;
+        }
+        input[type="file"] {
+            display: none;
+        }
+        .custom-file-upload {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .custom-file-upload:hover {
+            background-color: #45a049;
+        }
+        button[type="submit"] {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #008CBA;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button[type="submit"]:hover {
+            background-color: #005580;
+        }
+    </style>
+</head>
+<body>
+    <h1>Upload Sticker List</h1>
+    {% if messages %}
+        <ul class="messages">
+            {% for message in messages %}
+                <li class="{% if message.tags == 'success' %}success{% elif message.tags == 'error' %}error{% endif %}">{{ message }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+    <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        
+        <label for="sticker">Select Sticker Images:</label>
+        <label class="custom-file-upload">
+            <span id="file-label">Browse</span>
+            <input type="file" name="sticker" id="sticker" multiple required>
+        </label>
+        
+        <button type="submit">Upload</button>
+    </form>
+
+    <script>
+        // Add your JavaScript code here
+        document.getElementById("sticker").addEventListener("change", function(event) {
+            var input = event.target;
+            var label = document.getElementById("file-label");
+            if (input.files.length > 0) {
+                if (input.files.length === 1) {
+                    label.textContent = input.files.length + " file selected";
+                } else {
+                    label.textContent = input.files.length + " files selected";
+                }
+            } else {
+                label.textContent = "Browse";
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+from django.shortcuts import render
+import requests
+
+def packages(request):
+    url = "https://api.airalo.com/packages"
+    headers = {
+        "Authorization": "Bearer YOUR_API_KEY"
+    }
+    response = requests.get(url, headers=headers)
+    packages = response.json()["data"]
+    return render(request, 'packages.html', {'packages': packages})
+
+
+
+
+
+
+
+
+import requests
+
+# Replace YOUR_API_KEY with your actual Distribution Partners key
+api_key = 'YOUR_API_KEY'
+
+# Set up the API endpoint
+endpoint = 'https://api.airalo.com/v1/packages'
+
+# Make the API request
+response = requests.get(endpoint, headers={'Authorization': f'Bearer {api_key}'})
+
+# Parse the response
+data = response.json()
+
+# Extract the package information
+packages = data['packages']
+
+# Iterate through the packages and print information
+for package in packages:
+    print(package['name'])
+    print(package['price'])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+from django.shortcuts import render, redirect
+
+def make_purchase(request):
+    if request.method == 'POST':
+        package = request.POST.get('package')
+        name = request.POST.get('name')
+        email = request.POST.get('email')
+
+        package_cost = get_package_cost(package) # function to get the cost of the selected package
+        additional_charge = package_cost * 0.1
+        total_cost = package_cost + additional_charge
+
+        # make the purchase on the user's behalf via the Distribution Partners of Airalo
+        purchase_success = make_airalo_purchase(package, name, email, total_cost)
+
+        if purchase_success:
+            return redirect('purchase_success')
+        else:
+            return redirect('purchase_failure')
+    else:
+        return render(request, 'make_purchase.html')
